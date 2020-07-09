@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c343cf13-93b1-4b63-a548-7564f5afcddc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steps.md" beforeDir="false" afterPath="$PROJECT_DIR$/steps.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="js.introduce.parameter.add.jsdoc" value="true" />
+    <property name="js.introduce.parameter.generate.optional" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1866" height="374" key="GridCell.Tab.0.bottom" timestamp="1594248121221">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594248121221" />
+    <state width="1866" height="374" key="GridCell.Tab.0.center" timestamp="1594248121220">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="374" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594248121220" />
+    <state width="1866" height="374" key="GridCell.Tab.0.left" timestamp="1594248121219">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="374" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594248121219" />
+    <state width="1866" height="374" key="GridCell.Tab.0.right" timestamp="1594248121220">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1866" height="374" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594248121220" />
+    <state x="382" y="91" key="SettingsEditor" timestamp="1594246869231">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="382" y="91" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594246869231" />
+    <state x="687" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594248895007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594248895007" />
+    <state x="541" y="24" width="838" height="1032" key="search.everywhere.popup" timestamp="1594249306013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="541" y="24" width="838" height="1032" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1594249306013" />
   </component>
 </project>

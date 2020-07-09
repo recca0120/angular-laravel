@@ -21,5 +21,8 @@ composer require tymon/jwt-auth
 php artisan jwt:secret
 ```
 
+# Angular
+
+
 
 
